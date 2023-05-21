@@ -10,10 +10,10 @@ So far i've done a decent job at getting most things to work fairly well, in fac
 - [X] Speakers and AUX port 
 - [X] Wifi (and bluetooth, i just haven't had time to get the proper KEXTs to make it work)
 - [X] Sleep
-- [X] NVMe Drive
+- [X] NVMe Drive\
 Now, onto the things that i'm still working on fixing but i can't either due to incompetence or lack of time
-- [] Backlight could use some fixing 
-- [] Bluetooth is still spotty
+- [ ] Backlight could use some fixing 
+- [ ] Bluetooth is still a wip
 
 ----
 Updates (or at least going from monterey to ventura) worked flawlessly, and it didn't break anything. If you have a similar, or even the same board, and got bluetooth to work on an intel 8265 card do shoot me a message on discord @mercury#0420 or open up an issue and show me what you did (please, i need bluetooth)
