@@ -1,5 +1,5 @@
 # hp-85F0-efi
-Opencore EFI files for hp laptop motherboard 85F0. Current working opencore version: 0.9.2
+Opencore EFI files for hp laptop DW0053-NL (motherboard 85F0). Current working opencore version: 0.9.2
 
 ## What works, what doesn't
 
