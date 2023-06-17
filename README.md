@@ -3,7 +3,7 @@ Opencore EFI files for hp laptop DW0053-NL (motherboard 85F0). Current working o
 
 ## What works, what doesn't
 
-Only thing that i'm still currently working on getting a fix for is the camera, other than that every basic laptop function is provided. 
+Pretty much everything works. i suggest using itlwm+heliport instead of airportitlwm for more stability
 - [X] Battery readouts, fairly accurate battery status reporting
 - [X] NVMe Drive
 - [X] Sleep
