@@ -10,7 +10,8 @@ Only thing that i'm still currently working on getting a fix for is the camera, 
 - [X] GPU with hw acceleration (can easily work on heavier apps like photoshop or fusion360 with no issues)
 - [X] Keyboard and trackpad (even gestures!)
 - [X] USB(both A and C ports) and SD card reader
-- [X] Speakers and AUX port 
+- [X] Speakers, Microphone, AUX port and BT audio
+- [X] Camera 
 - [X] Wifi
 - [X] Bluetooth (thanks to u/Seven_of_eleven for providing a patch for it. original thread [here](https://www.reddit.com/r/hackintosh/comments/13pvdhj/comment/jlbj2d9/?utm_source=share&utm_medium=web2x&context=3))
 - [X] Backlight (on ventura it has the backlight off at boot issue)
